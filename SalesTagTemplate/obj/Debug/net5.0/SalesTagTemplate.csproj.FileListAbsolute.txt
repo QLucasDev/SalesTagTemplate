@@ -1,0 +1,16 @@
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\bin\Debug\net5.0\SalesTagTemplate.exe
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\bin\Debug\net5.0\SalesTagTemplate.deps.json
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\bin\Debug\net5.0\SalesTagTemplate.runtimeconfig.json
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\bin\Debug\net5.0\SalesTagTemplate.runtimeconfig.dev.json
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\bin\Debug\net5.0\SalesTagTemplate.dll
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\bin\Debug\net5.0\ref\SalesTagTemplate.dll
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\bin\Debug\net5.0\SalesTagTemplate.pdb
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\obj\Debug\net5.0\SalesTagTemplate.csprojAssemblyReference.cache
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\obj\Debug\net5.0\SalesTagTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\obj\Debug\net5.0\SalesTagTemplate.AssemblyInfoInputs.cache
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\obj\Debug\net5.0\SalesTagTemplate.AssemblyInfo.cs
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\obj\Debug\net5.0\SalesTagTemplate.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\obj\Debug\net5.0\SalesTagTemplate.dll
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\obj\Debug\net5.0\ref\SalesTagTemplate.dll
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\obj\Debug\net5.0\SalesTagTemplate.pdb
+C:\Users\lucas\Workspace\C Sharp\SalesTagTemplate\SalesTagTemplate\obj\Debug\net5.0\SalesTagTemplate.genruntimeconfig.cache
